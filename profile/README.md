@@ -23,7 +23,7 @@ Takanashi Nyaphthalene
 - 名字来历:
 中文"小鸟游"取自游戏 Blue Archive 角色 小鸟游星野(takanashi hoshino)姓氏,英文同理
 喵"因为是只猫娘
-"萘"取自有机化合物 萘是一种芳香烃化合物 英文名Naphthalene其N于a间插入字面y 故为Nya......(喵)
+"萘"取自有机化合物 萘是一种芳香烃化合物 英文名Naphthalene其N于a间插入字母y 故为Nya......(喵)
 
 - 描述
 ```
