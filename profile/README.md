@@ -7,6 +7,7 @@
 
 ### 我们正在开发的项目
 
+- **NyanNone**
 - **ProjectNekoBoot** 
 - **NyanID** 
 
