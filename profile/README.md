@@ -7,7 +7,7 @@
 
 ### 我们正在开发的项目
 
-- **NyanNone**
+- **DeepSIN Game Project**
 - **ProjectNekoBoot** 
 - **NyanID** 
 
