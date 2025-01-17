@@ -1,4 +1,4 @@
-## DecobfnekoDev 
+## DecobfNekoDev 
 👋Hi~ 猫猫？那里有猫猫awa
 啊哈,雑魚～♡,又在偷懒喵ฅ
 
@@ -7,9 +7,10 @@
 
 ### 我们正在开发的项目
 
-- **DeepSIN Game Project**
-- **ProjectNekoBoot** 
-- **NyanID** 
+- **DeepSIN Game Project/ type:Game Priority:2**
+- **ProjectNekoBoot/ type:WebServer Priority:5** 
+- **NyanID/ type:Website Priority:10**
+- **让你的好友变成猫娘吧(nekomagic)/ type:MinecraftMod Priority:9**
 
 
 ### 联系我们
@@ -17,7 +18,7 @@
 - Email:  **neko@nyacat.cloud** 
 
 
-### DevobfnekoDev Mascot ฅ
+### DevobfNekoDev Mascot ฅ
 
 -------
 - **小鸟游 喵萘**   **(Takanashi Nyaphthalene)** 
